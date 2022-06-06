@@ -4,11 +4,13 @@
 
 ### Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
 
-### Technologies I use:
-###Python JavaScript React Redux Flask Express.js Postgres Sequelize Git HTML5 CSS3 Heroku Docker
+
+
+
 <!--
 **RyanKagrise/RyanKagrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Technologies I use:
+Python JavaScript React Redux Flask Express.js Postgres Sequelize Git HTML5 CSS3 Heroku Docker
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
