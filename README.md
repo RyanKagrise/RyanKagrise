@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# Financial analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to value high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2021 I made the decision retool and become a full stack developer myself.
+### Manager turned software engineer
 
-# Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
+### Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
 
-# Technologies I use:
-Python JavaScript React Redux Flask Express.js Postgres Sequelize Git HTML5 CSS3 Heroku Docker
+### Technologies I use:
+###Python JavaScript React Redux Flask Express.js Postgres Sequelize Git HTML5 CSS3 Heroku Docker
 <!--
 **RyanKagrise/RyanKagrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
