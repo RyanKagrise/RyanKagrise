@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Manager turned software engineer
+### Manager turned software engineer!
 
 ### Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
 
