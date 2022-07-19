@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![294003767_752038742801087_4359236555247362386_n](https://user-images.githubusercontent.com/93758028/179845928-ea20c150-03d4-4ddc-95c5-c1ed1a5a1b9e.jpg)
+
+
 ### Logistics/supply chain manager turned software engineer!
 
 ### Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
