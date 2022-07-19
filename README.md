@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my github garden! 👋
 
 ![294003767_752038742801087_4359236555247362386_n](https://user-images.githubusercontent.com/93758028/179845928-ea20c150-03d4-4ddc-95c5-c1ed1a5a1b9e.jpg)
 
