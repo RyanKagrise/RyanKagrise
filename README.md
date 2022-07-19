@@ -1,6 +1,8 @@
 ### Hi there, welcome to my github garden! 👋
 
-![294003767_752038742801087_4359236555247362386_n](https://user-images.githubusercontent.com/93758028/179846514-bc1de395-b39d-40a6-8d39-d6e9407ade15.jpg)
+
+![IMG_3497](https://user-images.githubusercontent.com/93758028/179848897-0b4cdac2-ffd0-4534-95d4-e60a9f7dfab4.jpeg)
+
 
 
 ### I'm a former logistics/supply chain manager turned software engineer!
