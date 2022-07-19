@@ -1,9 +1,9 @@
 ### Hi there, welcome to my github garden! 👋
 
-![294003767_752038742801087_4359236555247362386_n](https://user-images.githubusercontent.com/93758028/179845928-ea20c150-03d4-4ddc-95c5-c1ed1a5a1b9e.jpg)
+![294003767_752038742801087_4359236555247362386_n](https://user-images.githubusercontent.com/93758028/179846514-bc1de395-b39d-40a6-8d39-d6e9407ade15.jpg)
 
 
-### Logistics/supply chain manager turned software engineer!
+### I'm a former logistics/supply chain manager turned software engineer!
 
 ### Having recently completed App Academy's 24-week full stack software engineering program, I'm now looking for work roles with ample opportunities to continue learning and add value as a developer.
 
